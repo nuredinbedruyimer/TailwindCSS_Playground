@@ -1,10 +1,10 @@
 import React from "react";
-import Youtube from "./components/grid/Youtube";
+import LandingPage from "./components/Landing/LandingPage";
 
 const App = () => {
   return (
-    <div className="min-h-screen  min-w-full bg-white flex justify-center ">
-      <Youtube />
+    <div className="font-Poppins">
+      <LandingPage />
     </div>
   );
 };

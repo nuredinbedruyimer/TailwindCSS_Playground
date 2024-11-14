@@ -1,0 +1,9 @@
+export { default as hero } from "./hero-bg.png";
+export { default as tab1 } from "./illustration-features-tab-1.png";
+export { default as tab2 } from "./illustration-features-tab-2.png";
+export { default as tab3 } from "./illustration-features-tab-3.png";
+export { default as opera } from "./logo-opera.svg";
+export { default as chromeLogo } from "./logo-chrome.svg";
+export { default as firefoxLogo } from "./logo-firefox.svg";
+export { default as logoBookmark } from "./logo-bookmark.svg";
+export { default as iconArrow } from "./icon-arrow.svg";
